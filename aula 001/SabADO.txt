@@ -1,0 +1,7 @@
+1.Desligar o alarme
+2.escovar os dentes
+3.lavar o rosto
+4.comer um pão
+5.colocar o uniforme
+6.colocar o tenis
+7.ir para a escola.
